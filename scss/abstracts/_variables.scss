@@ -1,0 +1,39 @@
+//Greens
+$colour-primary: #55c57a;
+$colour-primary-light: #7ed56f;
+$colour-primary-dark: #28b485;
+
+//BW
+$colour-white: #fff;
+$colour-black: #000;
+
+//Greys
+$colour-grey-dark-2:#333;
+$colour-grey-dark:#777; //std Text
+$colour-grey-light-1: #f7f7f7;
+
+
+//Blues
+$colour-blue-light: #c1def8;
+$colour-blue-dark: #3985c7;
+
+//Oranges
+$colour-orange-light: #f9ee5d;
+$colour-orange-dark: #ff7730;
+
+//FontSizes
+$rootFontSize: 62.5%;
+$default-font-size: 1.8rem;
+
+//Files
+$heroBanner: '../img/hero.jpg';
+$heroFeatures: '../img/nat-4.jpg';
+
+//Grid
+$grid-width: 114rem;
+$gutter-vertical: 3rem;
+$gutter-vertical-small: 2rem;
+$gutter-horizontal: 5rem;
+
+//Shadows
+$heading-shadow: 0 10px 50px rgba($colour-black, 0.7);
